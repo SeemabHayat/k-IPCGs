@@ -1,0 +1,47 @@
+# ===== Visual Studio =====
+.vs/
+*.vsidx
+*.suo
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+*.VC.opendb
+*.user
+*.userosscache
+*.sln.docstates
+*.iobj
+*.ipdb
+*.ipch/
+**/ipch/
+*.pdb
+*.ilk
+Debug/
+Release/
+x64/
+x86/
+
+# ===== Compiled binaries =====
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+*.lib
+a.out
+dreadnaut
+**/dreadnaut
+
+# ===== Generated data =====
+4_verifier/Experimental_results_verifier/
+Canon_round_PCGs.txt
+2_canon/Graph_1.txt
+*.log
+
+# ===== IDE =====
+.vscode/
+.idea/
+*.swp
+
+# ===== OS =====
+Thumbs.db
+.DS_Store
