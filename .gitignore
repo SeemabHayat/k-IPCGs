@@ -31,11 +31,13 @@ a.out
 dreadnaut
 **/dreadnaut
 
-# ===== Generated data =====
-4_verifier/Experimental_results_verifier/
+# ===== Generated data (huge files) =====
 Canon_round_PCGs.txt
 2_canon/Graph_1.txt
 *.log
+
+# ===== Experimental results (giant files - DO NOT upload) =====
+4_verifier/Experimental_results_verifier/
 
 # ===== IDE =====
 .vscode/
@@ -45,3 +47,5 @@ Canon_round_PCGs.txt
 # ===== OS =====
 Thumbs.db
 .DS_Store
+
+2_canon/dreadnaut*
