@@ -23,11 +23,9 @@ See each tool's README for its exact commands, arguments, and output files.
 Due to GitHub's file size limits, the large experimental result files
 are hosted on Google Drive:
 Experimental results of 2-IPCG Generator: https://drive.google.com/drive/folders/1-0-OFb2_XsJduOD2WWp23UMxNoDPMBzJ?usp=drive_link
-Experimental results of 2-IPCG Verifier: https://drive.google.com/drive/folders/1mE6QSfQcL9H4XasyuNg7lIe98Wn_IR_z?usp=drive_link
 
 
 ## How to Run
 
-- Compile C++ code with Visual Studio (open the .sln / .vcxproj files)
+- Compile C++ code with Visual Studio 14.0 (2015)
 - Run Python scripts with: python batch_verifier_kIPCG_scriptfile.py
-- Run shell scripts with: bash exp_test.sh
