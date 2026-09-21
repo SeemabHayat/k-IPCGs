@@ -20,9 +20,8 @@ See each tool's README for its exact commands, arguments, and output files.
 
 ## Experimental Results
 
-Due to GitHub's file size limits, the large experimental result files
-are added on Google Drive:
-Experimental results of 2-IPCG Generator: https://drive.google.com/drive/folders/1-0-OFb2_XsJduOD2WWp23UMxNoDPMBzJ?usp=drive_link
+Due to GitHub's file size limits, the large experimental result files are added on Google Drive:
+Experimental results of 2-IPCG Generator: https://drive.google.com/drive/folders/1b0_uF9LNXB4zi-_s9uoJKQEojjSRhgfB?usp=drive_link
 
 
 ## How to Run
